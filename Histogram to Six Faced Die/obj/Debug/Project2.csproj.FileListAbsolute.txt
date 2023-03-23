@@ -1,0 +1,46 @@
+C:/Users/mahab/Desktop/Project2/obj/Debug/Project2.frmOne.resources
+C:/Users/mahab/Desktop/Project2/obj/Debug/P1.Properties.Resources.resources
+C:/Users/mahab/Desktop/Project2/obj/Debug/Project2.csproj.GenerateResource.cache
+C:/Users/mahab/Desktop/Project2/obj/Debug/Project2.csproj.CoreCompileInputs.cache
+C:/Users/mahab/Desktop/Project2/bin/Debug/P1.exe.config
+C:/Users/mahab/Desktop/Project2/bin/Debug/P1.exe
+C:/Users/mahab/Desktop/Project2/bin/Debug/P1.pdb
+C:/Users/mahab/Desktop/Project2/obj/Debug/P1.exe
+C:/Users/mahab/Desktop/Project2/obj/Debug/P1.pdb
+C:/Users/mahab/Desktop/Project2/obj/Debug/Project2.csprojAssemblyReference.cache
+C:/Users/mahab/Desktop/P2/obj/Debug/Project2.formStart.resources
+C:/Users/mahab/Desktop/P2/obj/Debug/Project2.formTwoDice.resources
+C:/Users/mahab/Desktop/P2/obj/Debug/Project2.formOneDice.resources
+C:/Users/mahab/Desktop/P2/obj/Debug/P1.Properties.Resources.resources
+C:/Users/mahab/Desktop/P2/obj/Debug/Project2.csproj.GenerateResource.cache
+C:/Users/mahab/Desktop/P2/obj/Debug/Project2.csproj.CoreCompileInputs.cache
+C:/Users/mahab/Desktop/P2/bin/Debug/P1.exe.config
+C:/Users/mahab/Desktop/P2/bin/Debug/P1.exe
+C:/Users/mahab/Desktop/P2/bin/Debug/P1.pdb
+C:/Users/mahab/Desktop/P2/obj/Debug/P1.exe
+C:/Users/mahab/Desktop/P2/obj/Debug/P1.pdb
+C:/Users/mahab/Desktop/P2/obj/Debug/Project2.csprojAssemblyReference.cache
+/Users/darshanvala/Desktop/Project2 2/bin/Debug/P1.exe.config
+/Users/darshanvala/Desktop/Project2 2/bin/Debug/P1.exe
+/Users/darshanvala/Desktop/Project2 2/bin/Debug/P1.pdb
+/Users/darshanvala/Desktop/Project2 2/obj/Debug/Project2.csprojAssemblyReference.cache
+/Users/darshanvala/Desktop/Project2 2/obj/Debug/Project2.formStart.resources
+/Users/darshanvala/Desktop/Project2 2/obj/Debug/Project2.formTwoDice.resources
+/Users/darshanvala/Desktop/Project2 2/obj/Debug/Project2.formOneDice.resources
+/Users/darshanvala/Desktop/Project2 2/obj/Debug/P1.Properties.Resources.resources
+/Users/darshanvala/Desktop/Project2 2/obj/Debug/Project2.csproj.GenerateResource.cache
+/Users/darshanvala/Desktop/Project2 2/obj/Debug/Project2.csproj.CoreCompileInputs.cache
+/Users/darshanvala/Desktop/Project2 2/obj/Debug/P1.exe
+/Users/darshanvala/Desktop/Project2 2/obj/Debug/P1.pdb
+/Users/darshanvala/Desktop/Software_System/p2/bin/Debug/P1.exe.config
+/Users/darshanvala/Desktop/Software_System/p2/bin/Debug/P1.exe
+/Users/darshanvala/Desktop/Software_System/p2/bin/Debug/P1.pdb
+/Users/darshanvala/Desktop/Software_System/p2/obj/Debug/Project2.csprojAssemblyReference.cache
+/Users/darshanvala/Desktop/Software_System/p2/obj/Debug/Project2.formStart.resources
+/Users/darshanvala/Desktop/Software_System/p2/obj/Debug/Project2.formTwoDice.resources
+/Users/darshanvala/Desktop/Software_System/p2/obj/Debug/Project2.formOneDice.resources
+/Users/darshanvala/Desktop/Software_System/p2/obj/Debug/P1.Properties.Resources.resources
+/Users/darshanvala/Desktop/Software_System/p2/obj/Debug/Project2.csproj.GenerateResource.cache
+/Users/darshanvala/Desktop/Software_System/p2/obj/Debug/Project2.csproj.CoreCompileInputs.cache
+/Users/darshanvala/Desktop/Software_System/p2/obj/Debug/P1.exe
+/Users/darshanvala/Desktop/Software_System/p2/obj/Debug/P1.pdb
